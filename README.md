@@ -335,8 +335,8 @@ This project is licensed under the MIT License.
 
 **Kazi Asid Alam**
 
-- GitHub: https://github.com/<your-github-username>
-- LinkedIn: https://www.linkedin.com/in/<your-linkedin-username>
+- GitHub: https://github.com/kazi-asid
+- LinkedIn: https://www.linkedin.com/in/kazi-asid
 
 ---
 
